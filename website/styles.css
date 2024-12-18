@@ -461,6 +461,9 @@ nav li {
             height: auto;
             max-height: 50vh; 
         }
+
+        .circle {
+            display: none;
 }
 
 /* project 1 styling */
